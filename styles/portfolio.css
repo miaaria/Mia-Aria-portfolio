@@ -215,6 +215,10 @@
       font-size: 47px;
     }
     
+    .hero h2{
+      font-size: 17px;
+    }
+
     .hero p {
     font-size: 30px;
     font-weight: normal;
@@ -225,6 +229,10 @@
       padding: 0;
     }
   
+    .content h1 {
+      font-size: 40px;
+    }
+
     .project-description {
       padding: 0;
       text-align: center;
