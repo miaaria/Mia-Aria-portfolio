@@ -216,7 +216,7 @@
     }
     
     .hero h2{
-      font-size: 17px;
+      font-size: 17spx;
     }
 
     .hero p {
@@ -237,4 +237,9 @@
       padding: 0;
       text-align: center;
     }
+
+    .img-fluid {
+      max-width: 100%;
+      height: auto;
+  }
   }
